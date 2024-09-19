@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GioLGA\\source\\repos\\ShoppingListAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D43AC63-8703-4827-957E-86AD8E562F78}|ShoppingListAPI\\ShoppingListAPI.csproj|c:\\users\\giolga\\source\\repos\\shoppinglistapi\\shoppinglistapi\\controllers\\groceriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D43AC63-8703-4827-957E-86AD8E562F78}|ShoppingListAPI\\ShoppingListAPI.csproj|solutionrelative:shoppinglistapi\\controllers\\groceriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D43AC63-8703-4827-957E-86AD8E562F78}|ShoppingListAPI\\ShoppingListAPI.csproj|c:\\users\\giolga\\source\\repos\\shoppinglistapi\\shoppinglistapi\\models\\shoppinglistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D43AC63-8703-4827-957E-86AD8E562F78}|ShoppingListAPI\\ShoppingListAPI.csproj|solutionrelative:shoppinglistapi\\models\\shoppinglistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D43AC63-8703-4827-957E-86AD8E562F78}|ShoppingListAPI\\ShoppingListAPI.csproj|c:\\users\\giolga\\source\\repos\\shoppinglistapi\\shoppinglistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D43AC63-8703-4827-957E-86AD8E562F78}|ShoppingListAPI\\ShoppingListAPI.csproj|solutionrelative:shoppinglistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D43AC63-8703-4827-957E-86AD8E562F78}|ShoppingListAPI\\ShoppingListAPI.csproj|c:\\users\\giolga\\source\\repos\\shoppinglistapi\\shoppinglistapi\\models\\grocery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D43AC63-8703-4827-957E-86AD8E562F78}|ShoppingListAPI\\ShoppingListAPI.csproj|solutionrelative:shoppinglistapi\\models\\grocery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroceriesController.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\ShoppingListAPI\\ShoppingListAPI\\Controllers\\GroceriesController.cs",
+              "RelativeDocumentMoniker": "ShoppingListAPI\\Controllers\\GroceriesController.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\ShoppingListAPI\\ShoppingListAPI\\Controllers\\GroceriesController.cs",
+              "RelativeToolTip": "ShoppingListAPI\\Controllers\\GroceriesController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:36:02.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\ShoppingListAPI\\ShoppingListAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingListAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\ShoppingListAPI\\ShoppingListAPI\\Program.cs",
+              "RelativeToolTip": "ShoppingListAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:32:54.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingListContext.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\ShoppingListAPI\\ShoppingListAPI\\Models\\ShoppingListContext.cs",
+              "RelativeDocumentMoniker": "ShoppingListAPI\\Models\\ShoppingListContext.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\ShoppingListAPI\\ShoppingListAPI\\Models\\ShoppingListContext.cs",
+              "RelativeToolTip": "ShoppingListAPI\\Models\\ShoppingListContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:31:10.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grocery.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\ShoppingListAPI\\ShoppingListAPI\\Models\\Grocery.cs",
+              "RelativeDocumentMoniker": "ShoppingListAPI\\Models\\Grocery.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\ShoppingListAPI\\ShoppingListAPI\\Models\\Grocery.cs",
+              "RelativeToolTip": "ShoppingListAPI\\Models\\Grocery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:28:55.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 913,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
