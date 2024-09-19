@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pw5ff5xUPQI=",
+  "dgSpecHash": "Haq43zE1bHs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\GioLGA\\source\\repos\\ShoppingListAPI\\ShoppingListAPI\\ShoppingListAPI.csproj",
+  "projectFilePath": "C:\\Users\\GioLGA\\Desktop\\ShoppingListAPI\\ShoppingListAPI\\ShoppingListAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GioLGA\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\GioLGA\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
